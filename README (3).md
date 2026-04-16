@@ -1,1 +1,0 @@
-# SKIN_CANCER_APP
